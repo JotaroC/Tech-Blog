@@ -27,7 +27,7 @@ Build with MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
 
 The following link is the deployed application:
 
-- [Click here to the app](https://calip.io/PEvQ6r9t#8tq8Cfnf)
+- [Click here to the app](https://alexc-techblog.herokuapp.com/)
 
 
 
