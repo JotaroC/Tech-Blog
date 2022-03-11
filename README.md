@@ -24,7 +24,8 @@ Build with MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
 - populate data by enter  ``npm run seed``
 - run the app by enter ``npm start``
 
-
+![screen shot of the website](./asset/screenshot1.png)
+![screen shot of the website](./asset/screenshot2.png)
 The following link is the deployed application:
 
 - [Click here to the app](https://alexc-techblog.herokuapp.com/)
